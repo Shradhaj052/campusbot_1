@@ -1,0 +1,24 @@
+{
+  "intents": [
+    {
+      "tag": "courses",
+      "patterns": ["courses", "branches", "departments"],
+      "responses": ["We offer CSE, ECE, Mechanical, Civil and AI & ML."]
+    },
+    {
+      "tag": "fees",
+      "patterns": ["fees", "fee structure"],
+      "responses": ["Fees range from ₹60,000 to ₹1,20,000 per year."]
+    },
+    {
+      "tag": "admission",
+      "patterns": ["admission", "apply", "joining"],
+      "responses": ["Admissions are through CET and management quota."]
+    },
+    {
+      "tag": "contact",
+      "patterns": ["contact", "phone", "email"],
+      "responses": ["Call +91-9876543210 or email info@college.com"]
+    }
+  ]
+}

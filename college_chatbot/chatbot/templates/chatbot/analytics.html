@@ -1,0 +1,9 @@
+<h2>Chat Analytics</h2>
+<p>Total Chats: {{ total }}</p>
+
+<h3>Most Asked Questions</h3>
+<ul>
+{% for q in top %}
+  <li>{{ q.user_message }} — {{ q.count }} times</li>
+{% endfor %}
+</ul>

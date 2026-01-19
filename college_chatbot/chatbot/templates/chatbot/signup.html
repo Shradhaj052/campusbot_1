@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CampusBot Signup</title>
+<style>
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    height: 100vh;
+    background: linear-gradient(120deg,#141e30,#243b55);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.signup-box {
+    width: 380px;
+    background: rgba(255,255,255,0.15);
+    backdrop-filter: blur(20px);
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 0 40px rgba(0,0,0,0.5);
+    text-align: center;
+    color: white;
+}
+input {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+    border-radius: 10px;
+    border: none;
+}
+button {
+    width: 100%;
+    padding: 12px;
+    background: linear-gradient(90deg,#00f2ff,#ff00ff);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+a {
+    color: cyan;
+}
+</style>
+</head>
+
+<body>
+<div class="signup-box">
+<h2>🎓 Create CampusBot Account</h2>
+<form method="post">
+{% csrf_token %}
+{{ form.as_p }}
+<button type="submit">Create Account</button>
+</form>
+<p>Already have an account? <a href="/">Login</a></p>
+</div>
+</body>
+</html>
