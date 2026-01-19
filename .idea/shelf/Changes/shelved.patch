@@ -1,0 +1,67 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"796aa512-7010-4504-afb8-32ff51bc34d0\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/college_Enquiry_chatbot.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/college_chatbot/chatbot/intents.json\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/college_chatbot/chatbot/templates/chatbot/analytics.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/college_chatbot/chatbot/templates/chatbot/index.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/college_chatbot/chatbot/templates/chatbot/login.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/college_chatbot/chatbot/templates/chatbot/signup.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/college_chatbot/chatbot/urls.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/college_chatbot/static/chatbot/style.css\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"lastFilter\": {\r\n    \"state\": \"OPEN\",\r\n    \"assignee\": \"Shradhaj052\"\r\n  }\r\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\r\n  \"selectedUrlAndAccountId\": {\r\n    \"url\": \"https://github.com/Shradhaj052/campusbot_1.git\",\r\n    \"accountId\": \"b29409bf-3af0-4c99-bb6b-2597af5e4364\"\r\n  }\r\n}]]></component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 6\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"37zCNqrLwJTvBx2mXjks0AT4zgI\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\r\n    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\r\n    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"D:\\PythonProject\\college_Enquiry_chatbot\\college_chatbot\\static\\chatbot\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"796aa512-7010-4504-afb8-32ff51bc34d0\" name=\"Changes\" comment=\"\" />\r\n      <created>1767896475762</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1767896475762</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision cd4182f7e59efab27b74e4e62e234298d082b399)
++++ b/.idea/workspace.xml	(date 1768825512478)
+@@ -4,21 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="796aa512-7010-4504-afb8-32ff51bc34d0" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/.idea/college_Enquiry_chatbot.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/college_chatbot/chatbot/intents.json" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/college_chatbot/chatbot/templates/chatbot/analytics.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/college_chatbot/chatbot/templates/chatbot/index.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/college_chatbot/chatbot/templates/chatbot/login.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/college_chatbot/chatbot/templates/chatbot/signup.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/college_chatbot/chatbot/urls.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/college_chatbot/static/chatbot/style.css" afterDir="false" />
+-    </list>
++    <list default="true" id="796aa512-7010-4504-afb8-32ff51bc34d0" name="Changes" comment="Initial commit :add CampusBot Django project" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -82,6 +68,23 @@
+       <option name="presentableId" value="Default" />
+       <updated>1767896475762</updated>
+     </task>
++    <task id="LOCAL-00001" summary="Initial commit :add CampusBot Django project">
++      <option name="closed" value="true" />
++      <created>1768825104993</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1768825104993</updated>
++    </task>
++    <task id="LOCAL-00002" summary="Initial commit :add CampusBot Django project">
++      <option name="closed" value="true" />
++      <created>1768825478226</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1768825478226</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -95,4 +98,8 @@
+       </map>
+     </option>
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="Initial commit :add CampusBot Django project" />
++    <option name="LAST_COMMIT_MESSAGE" value="Initial commit :add CampusBot Django project" />
++  </component>
+ </project>
+\ No newline at end of file
